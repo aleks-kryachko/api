@@ -16,6 +16,7 @@ server_ESTO = '10.1.4.98/sirena-toguchin'
 server_ESBI = '10.1.4.98/sirena-berdsk'
 
 
+
 #bspids = [  'ESBP', 'ESBV', 'ESBH', 'ESBI', 'ESBM', 'ESBN', 'ESBO', 'ESBW', 'ESBJ', 'ESTO', 'ESOR', 'ESBC', 'ESBL',
 #            'ESKC', 'ESBQ', 'ESBX', 'ESBD', 'ESBB', 'ESBZ', 'ESBS', 'ESBU', 'ESBY', 'ESBG', 'ESBR', 'ESBA', 'ESKU',
 #            'ESTA', 'ESCH', 'ESCA', 'ESVE', 'ESUT', 'ESKK', 'ESB']
