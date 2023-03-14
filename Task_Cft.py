@@ -1,6 +1,6 @@
 # задание ЦФТ
+# прямоугольный треугольник по катетам
 import math
-
 a = int(input())
 b = int(input())
 c = int(input())
